@@ -1,0 +1,10 @@
+{
+  "appId": "com.brandorigin.countrychicken",
+  "appName": "countrychicken",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "url":"https://countrychickenco.in/",
+    "allowNavigation": ["*"]
+  }
+}
